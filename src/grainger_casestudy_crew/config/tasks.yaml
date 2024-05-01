@@ -1,26 +1,29 @@
 research_company_task:
-  description: >
-    Use a search tool to research about why a company like Grainger would bring hosting CAD files on their store in-house instead of using a another firm.
-    The goal is to prepare enough information to write the following case study requirements:
-
-    To help customers buy with confidence Grainger offers a wealth of product information on Grainger.com. This information includes visual assets such as images, videos & computer aided designs (CAD). Visual assets such as CAD are important for confident product selection because they provide detailed and accurate representations of products, allowing customers to visualize them more effectively. With CAD, customers can view products from various angles, explore different features, and assess dimensions with precision. This helps them make informed decisions about the suitability of a product for their needs, leading to greater confidence in their selections. Visual assets also play a key role in generating SEO for a page when used appropriately. Historically Grainger has partnered with an external vendor to create, manage & host these CAD assets on Grainger.com. Grainger now wants to bring the process of creating, managing & publishing the CAD assets inhouse. This will unlock the potential to create additional image assets for Grainger’s product assortment. Grainger already has a custom built software to manage image & video type of assets which would likely need to be extended to manage CAD assets.
-
-  expected_output: >
-    All of the relevant research for the case study.
+  description: |
+    Conduct comprehensive research on why Grainger, a leading MRO company, would consider bringing the hosting of CAD files in-house instead of using an external firm. Focus on gathering information to support the following case study requirements:
+    - Explore how offering CAD files on Grainger.com helps customers buy with confidence by providing detailed and accurate product representations.
+    - Investigate the role of visual assets, such as CAD, in generating SEO for product pages when used appropriately.
+    - Analyze Grainger's historical partnership with an external vendor for creating, managing, and hosting CAD assets on Grainger.com.
+    - Examine Grainger's motivation for bringing the process of creating, managing, and publishing CAD assets in-house, including the potential to create additional image assets for their product assortment.
+    - Evaluate Grainger's existing custom-built software for managing image and video assets and its potential extension to manage CAD assets.
+  expected_output: |
+    A comprehensive collection of relevant research findings to support the development of the case study, covering the specified requirements and providing insights into Grainger's motivations and opportunities related to in-house CAD asset management.
 
 write_report_task:
-  description: >
-    Take the research from the previous report and write the report including:
-
-    Outline Grainger’s needs and opportunities related to managing CAD assets inhouse.
-    Describe the business capabilities that you think Grainger needs to solve the problems and take advantage of the opportunities that you identified in part 1. In your description of capabilities, consider including the types of data, business processes, and technology that could/should be employed to solve the problems and that deliver competitive advantage to Grainger.
-    Prioritize the capabilities and be prepared to justify your prioritization. The sequence should take into account factors such as operational readiness, expected benefits, and the logical order of implementation.
-    We recommend your recommendation convey the business value, capabilities needed to achieve the stated business value and an execution strategy expressed via the roadmap & priorities.
-
-  expected_output: >
-    A nicely formatted case-study report including the following
-    
-    Outline Grainger’s needs and opportunities related to managing CAD assets inhouse.
-    Describe the business capabilities that you think Grainger needs to solve the problems and take advantage of the opportunities that you identified in part 1. In your description of capabilities, consider including the types of data, business processes, and technology that could/should be employed to solve the problems and that deliver competitive advantage to Grainger.
-    Prioritize the capabilities and be prepared to justify your prioritization. The sequence should take into account factors such as operational readiness, expected benefits, and the logical order of implementation.
-    We recommend your recommendation convey the business value, capabilities needed to achieve the stated business value and an execution strategy expressed via the roadmap & priorities.
+  description: |
+    Utilize the research findings from the previous task to write a well-structured case study report that includes the following:
+    1. Outline Grainger's needs and opportunities related to managing CAD assets in-house, based on the research conducted.
+    2. Describe the specific business capabilities Grainger requires to address the identified problems and capitalize on the opportunities outlined in part 1. Consider including:
+       - Types of data needed
+       - Business processes to be implemented or improved
+       - Technology solutions that could deliver a competitive advantage to Grainger
+    3. Prioritize the identified capabilities, justifying the prioritization based on factors such as:
+       - Operational readiness
+       - Expected benefits
+       - Logical order of implementation
+    4. Provide a recommendation that conveys:
+       - The business value of bringing CAD asset management in-house
+       - The capabilities needed to achieve the stated business value
+       - An execution strategy expressed through a roadmap and priorities
+  expected_output: |
+    A professionally formatted case study report that comprehensively addresses Grainger's needs, opportunities, and required capabilities related to in-house CAD asset management. The report should include a clear outline, a description of necessary business capabilities, a prioritized list of capabilities with justifications, and a well-reasoned recommendation that conveys business value, required capabilities, and an execution strategy.
